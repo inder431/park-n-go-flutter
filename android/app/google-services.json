@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600648090891",
+    "project_id": "park-n-go-flutter",
+    "storage_bucket": "park-n-go-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600648090891:android:c427f2f1327950969d8e0e",
+        "android_client_info": {
+          "package_name": "com.example.parking_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600648090891-uqtooi8qk6nto3cqvifevhtgi3rmuq9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parking_go",
+            "certificate_hash": "2cb623658e3ca2eec53f8df0293715f10cb11054"
+          }
+        },
+        {
+          "client_id": "600648090891-h9d3e1u8fp87j4sc032s72k61snij44d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjCZf5VRGAljJ-6N6H7D3a9f6osy1cy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600648090891-h9d3e1u8fp87j4sc032s72k61snij44d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
